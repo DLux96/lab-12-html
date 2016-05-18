@@ -8,6 +8,13 @@ p {
 h1 {
 	color: #888888;
 	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+	border-width: 5px;
+	border-color: red;
+
+
 }
 h2 {
 	color: #888888;
